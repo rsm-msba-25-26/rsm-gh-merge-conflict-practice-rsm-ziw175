@@ -1,4 +1,4 @@
-## Generate (and fix) a merge conflict
+# Generate (and fix) a merge conflict
 
 This assignment provides some practice in how to create and resolve merge conflicts. First, view the assignment from the GitHub organization linked below:
 
@@ -29,7 +29,8 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: <zipei wang> Date: <insert-the-date-here>
+Your name: <zipei wang>
+Date: <2025.08.03>
 
 ---
 
